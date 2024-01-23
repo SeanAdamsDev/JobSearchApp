@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "job-app",
+    "slug": "job-app",
+    "extra": {
+      "eas": {
+        "projectId": "cba7d78d-fd6d-4753-a8a5-7c461e6aa3c5"
+      }
+    },
+    "owner": "hayabasi"
+  }
+}
