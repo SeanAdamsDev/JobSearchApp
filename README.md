@@ -8,7 +8,7 @@ This is an Android App created using React Native and Expo with the web version 
 
 The app was created in order to mainly learn more about React Native, but to also learn how to develop an Android application with an APK file as well as host a web version of it.
 
-The web version of the project can be seen in the Porfolio section on my website <a href="https://www.seanadamsdev.github.io" target="_blank">Here!</a>
+The web version of the project can be seen in the Porfolio section on my website <a href="http://seanadamsdev.github.io" target="_blank"><b>here!</b></a>
 
 If you'd like the APK file, please feel free to get in touch and I'll be happy to send you the demo version.
 
