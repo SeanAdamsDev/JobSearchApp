@@ -11,6 +11,9 @@
         "projectId": "cba7d78d-fd6d-4753-a8a5-7c461e6aa3c5"
       }
     },
-    "owner": "hayabasi"
+    "owner": "hayabasi",
+    "android": {
+      "package": "com.hayabasi.jobapp"
+    }
   }
 }
